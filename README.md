@@ -4,11 +4,7 @@ Welcome to my corner of GitHub! I'm passionate about technology, data, and learn
 
 ---
 
-## 🔭 Current Projects  
-
- 
-- **Quantum Computing**:  
-  Working with **AWS Braket** to execute quantum circuits and store results in **Amazon S3** using Python's `boto3` library. My focus is on practical applications of quantum algorithms.  
+## 🔭 Current Projects   
 
 ---
 
